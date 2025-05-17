@@ -26,7 +26,7 @@ This system provides a **hands-free, inclusive gaming experience** without any e
 
 ## 📦 Technologies Used
 
-- Python 3.x
+- Python 3.10
 - OpenCV (cv2)
 - MediaPipe
 - PyAutoGUI
